@@ -1,0 +1,1 @@
+create a quick vitualenv and add python3.6 with dependencies
